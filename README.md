@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jim Ezesinachi!
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning JavaScript, TypeScript, Node.js and React.
+- 🌱 I’m currently learning JavaScript, TypeScript, Node.js, Express.js, Nest.js, React and Next.js.
 
 <!---
 rapaktech/rapaktech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
