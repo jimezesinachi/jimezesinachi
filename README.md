@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#155](https://github.com/hyperledger/aries-framework-javascript-ext/issues/155) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 💪 Opened PR [#171](https://github.com/hyperledger/aries-framework-javascript-ext/pull/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 💪 Opened PR [#32](https://github.com/animo/awesome-self-sovereign-identity/pull/32) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+1. 🗣 Commented on [#109](https://github.com/animo/animo-demo/issues/109) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 💪 Opened PR [#109](https://github.com/animo/animo-demo/pull/109) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#155](https://github.com/hyperledger/aries-framework-javascript-ext/issues/155) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
