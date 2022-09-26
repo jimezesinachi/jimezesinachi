@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/animo/animo-demo/issues/109) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 💪 Opened PR [#109](https://github.com/animo/animo-demo/pull/109) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#171](https://github.com/hyperledger/aries-framework-javascript-ext/issues/171) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#155](https://github.com/hyperledger/aries-framework-javascript-ext/issues/155) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#2](https://github.com/rapaktech/animo-demo/pull/2) in [rapaktech/animo-demo](https://github.com/rapaktech/animo-demo)
+2. 💪 Opened PR [#2](https://github.com/rapaktech/animo-demo/pull/2) in [rapaktech/animo-demo](https://github.com/rapaktech/animo-demo)
+3. 🎉 Merged PR [#1](https://github.com/rapaktech/animo-demo/pull/1) in [rapaktech/animo-demo](https://github.com/rapaktech/animo-demo)
+4. 💪 Opened PR [#1](https://github.com/rapaktech/animo-demo/pull/1) in [rapaktech/animo-demo](https://github.com/rapaktech/animo-demo)
+5. 🗣 Commented on [#109](https://github.com/animo/animo-demo/issues/109) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
