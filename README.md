@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#122](https://github.com/animo/animo-demo/pull/122) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 🗣 Commented on [#1008](https://github.com/hyperledger/aries-framework-javascript/issues/1008) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#395](https://github.com/microsoft/react-native-code-push/issues/395) in [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push)
-4. 💪 Opened PR [#123](https://github.com/animo/animo-demo/pull/123) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 💪 Opened PR [#122](https://github.com/animo/animo-demo/pull/122) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 🗣 Commented on [#86](https://github.com/animo/animo-demo/issues/86) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. ❌ Closed PR [#122](https://github.com/animo/animo-demo/pull/122) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 🗣 Commented on [#1008](https://github.com/hyperledger/aries-framework-javascript/issues/1008) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#395](https://github.com/microsoft/react-native-code-push/issues/395) in [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push)
+5. 💪 Opened PR [#123](https://github.com/animo/animo-demo/pull/123) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
