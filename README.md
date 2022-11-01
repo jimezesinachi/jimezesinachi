@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jim</h1>
+<h1 align="center">Hi 👋🏾, I'm Jim</h1>
 <h3 align="center">A software developer from Enugu, Nigeria</h3>
 <br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
