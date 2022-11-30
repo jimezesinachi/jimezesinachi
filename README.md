@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#139](https://github.com/animo/animo-demo/pull/139) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 💪 Opened PR [#140](https://github.com/animo/animo-demo/pull/140) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 💪 Opened PR [#139](https://github.com/animo/animo-demo/pull/139) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. 🎉 Merged PR [#138](https://github.com/animo/animo-demo/pull/138) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🗣 Commented on [#1081](https://github.com/hyperledger/aries-framework-javascript/issues/1081) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#85](https://github.com/animo/animo-demo/issues/85) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 🗣 Commented on [#85](https://github.com/animo/animo-demo/issues/85) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. ❌ Closed PR [#139](https://github.com/animo/animo-demo/pull/139) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 💪 Opened PR [#140](https://github.com/animo/animo-demo/pull/140) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. 💪 Opened PR [#139](https://github.com/animo/animo-demo/pull/139) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
