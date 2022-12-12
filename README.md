@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/hyperledger/aries-framework-javascript-ext/pull/179) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 💪 Opened PR [#21](https://github.com/animo/react-native-ble-didcomm/pull/21) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-3. ❗️ Closed issue [#85](https://github.com/animo/animo-demo/issues/85) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. 🗣 Commented on [#79](https://github.com/hyperledger/aries-javascript-docs/issues/79) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 💪 Opened PR [#178](https://github.com/hyperledger/aries-framework-javascript-ext/pull/178) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#8](https://github.com/rapaktech/mongo-uploads/pull/8) in [rapaktech/mongo-uploads](https://github.com/rapaktech/mongo-uploads)
+2. 💪 Opened PR [#179](https://github.com/hyperledger/aries-framework-javascript-ext/pull/179) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 💪 Opened PR [#21](https://github.com/animo/react-native-ble-didcomm/pull/21) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+4. ❗️ Closed issue [#85](https://github.com/animo/animo-demo/issues/85) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. 🗣 Commented on [#79](https://github.com/hyperledger/aries-javascript-docs/issues/79) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
