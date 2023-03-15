@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-2. 💪 Opened PR [#32](https://github.com/animo/react-native-ble-didcomm/pull/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-3. ❌ Closed PR [#5](https://github.com/rapaktech/react-native-ble-didcomm/pull/5) in [rapaktech/react-native-ble-didcomm](https://github.com/rapaktech/react-native-ble-didcomm)
-4. ❌ Closed PR [#4](https://github.com/rapaktech/react-native-ble-didcomm/pull/4) in [rapaktech/react-native-ble-didcomm](https://github.com/rapaktech/react-native-ble-didcomm)
-5. 💪 Opened PR [#1382](https://github.com/hyperledger/aries-framework-javascript/pull/1382) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+3. 💪 Opened PR [#32](https://github.com/animo/react-native-ble-didcomm/pull/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+4. ❌ Closed PR [#5](https://github.com/rapaktech/react-native-ble-didcomm/pull/5) in [rapaktech/react-native-ble-didcomm](https://github.com/rapaktech/react-native-ble-didcomm)
+5. ❌ Closed PR [#4](https://github.com/rapaktech/react-native-ble-didcomm/pull/4) in [rapaktech/react-native-ble-didcomm](https://github.com/rapaktech/react-native-ble-didcomm)
 <!--END_SECTION:activity-->
 
 ---
