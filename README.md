@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+1. 💪 Opened PR [#33](https://github.com/animo/react-native-ble-didcomm/pull/33) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 2. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 3. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 4. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-5. 💪 Opened PR [#32](https://github.com/animo/react-native-ble-didcomm/pull/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+5. 🗣 Commented on [#32](https://github.com/animo/react-native-ble-didcomm/issues/32) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 <!--END_SECTION:activity-->
 
 ---
