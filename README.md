@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/animo/awesome-self-sovereign-identity/pull/41) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-2. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/issues/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#41](https://github.com/animo/awesome-self-sovereign-identity/issues/41) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 💪 Opened PR [#41](https://github.com/animo/awesome-self-sovereign-identity/pull/41) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
 3. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/issues/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 💪 Opened PR [#210](https://github.com/hyperledger/aries-framework-javascript-ext/pull/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. ❌ Closed PR [#203](https://github.com/hyperledger/aries-framework-javascript-ext/pull/203) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/issues/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 💪 Opened PR [#210](https://github.com/hyperledger/aries-framework-javascript-ext/pull/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
