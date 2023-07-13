@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/king-Alex-d-great/CountryRegionJS/issues/1) in [king-Alex-d-great/CountryRegionJS](https://github.com/king-Alex-d-great/CountryRegionJS)
-2. 🗣 Commented on [#41](https://github.com/animo/awesome-self-sovereign-identity/issues/41) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 🗣 Commented on [#41](https://github.com/animo/awesome-self-sovereign-identity/pull/41#issuecomment-1576594420) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
 3. 💪 Opened PR [#41](https://github.com/animo/awesome-self-sovereign-identity/pull/41) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-4. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/issues/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/issues/210) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/pull/210#issuecomment-1531161055) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#210](https://github.com/hyperledger/aries-framework-javascript-ext/pull/210#issuecomment-1530496303) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
