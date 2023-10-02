@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#107](https://github.com/Hebilicious/authjs-nuxt/issues/107) in [Hebilicious/authjs-nuxt](https://github.com/Hebilicious/authjs-nuxt)
-2. 🗣 Commented on [#1](https://github.com/Valentine-Mario/Graph_FS/pull/1#issuecomment-1689652231) in [Valentine-Mario/Graph_FS](https://github.com/Valentine-Mario/Graph_FS)
-3. 💪 Opened PR [#1](https://github.com/Valentine-Mario/Graph_FS/pull/1) in [Valentine-Mario/Graph_FS](https://github.com/Valentine-Mario/Graph_FS)
-4. 🗣 Commented on [#1](https://github.com/king-Alex-d-great/CountryRegionJS/issues/1#issuecomment-1638502846) in [king-Alex-d-great/CountryRegionJS](https://github.com/king-Alex-d-great/CountryRegionJS)
-5. 🔒 Closed issue [#1](https://github.com/king-Alex-d-great/CountryRegionJS/issues/1) in [king-Alex-d-great/CountryRegionJS](https://github.com/king-Alex-d-great/CountryRegionJS)
+1. 🗣 Commented on [#4739](https://github.com/jellyfin/jellyfin-web/issues/4739#issuecomment-1742293265) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+2. ❗ Opened issue [#107](https://github.com/Hebilicious/authjs-nuxt/issues/107) in [Hebilicious/authjs-nuxt](https://github.com/Hebilicious/authjs-nuxt)
+3. 🗣 Commented on [#1](https://github.com/Valentine-Mario/Graph_FS/pull/1#issuecomment-1689652231) in [Valentine-Mario/Graph_FS](https://github.com/Valentine-Mario/Graph_FS)
+4. 💪 Opened PR [#1](https://github.com/Valentine-Mario/Graph_FS/pull/1) in [Valentine-Mario/Graph_FS](https://github.com/Valentine-Mario/Graph_FS)
+5. 🗣 Commented on [#1](https://github.com/king-Alex-d-great/CountryRegionJS/issues/1#issuecomment-1638502846) in [king-Alex-d-great/CountryRegionJS](https://github.com/king-Alex-d-great/CountryRegionJS)
 <!--END_SECTION:activity-->
 
 ---
