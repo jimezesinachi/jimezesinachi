@@ -3,15 +3,15 @@
 <br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
-<!--  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rapaktech&show_icons=true&count_private=true&" alt="rapaktech" /></p> --!>
+<!--  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=jimezesinachi&show_icons=true&count_private=true&" alt="jimezesinachi" /></p> --!>
 
 <!--
 Github language stats
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapaktech&layout=compact" alt="rapaktech" /><p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimezesinachi&layout=compact" alt="jimezesinachi" /><p>
 -->
 
 <!-- Codestats language stats -->
-<!-- <p align="left"><img src="https://codestats-readme.vercel.app/api/top-langs/?username=rapaktech&layout=compact&language_count=12" alt="rapaktech" /><p>    --!>
+<!-- <p align="left"><img src="https://codestats-readme.vercel.app/api/top-langs/?username=jimezesinachi&layout=compact&language_count=12" alt="jimezesinachi" /><p>    --!>
   
 <h3>Recent Activity</h3>
 
